@@ -45,4 +45,4 @@ Then you can call the updater to check all repositories in your organization:
 ```
 
 # Running locally: marketplace website testing:
-Use a webhosting application to host the `index.html` file so you can test and debug it. Configure the `actions-data-url.txt` file to point to a filled json file with the correct structure (generate it once or use `https://raw.githubusercontent.com/rajbos-actions/actions-marketplace/gh-pages/actions-data.json`). 
+Use a webhosting application to host the `index.html` file so you can test and debug it. Configure the `actions-data-url.txt` file to point to a filled json file with the correct structure (generate it once or use `https://raw.githubusercontent.com/rajbos-actions/actions-marketplace/gh-pages/actions-data.json`).
